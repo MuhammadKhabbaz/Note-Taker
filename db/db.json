@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "90671fcd-b8a3-4282-bf1d-dd354589a278",
+        "title": "Exercise",
+        "text": "Go for a run"
+    },
+    {
+        "id": "8a6382ee-6f8b-4526-967c-232dfd313af3",
+        "title": "Shopping List",
+        "text": "Tomato\nCucumber"
     }
 ]
